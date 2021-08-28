@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-grid-layout-builder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A custom field to build a grid layout out of Dynamic zone components.",
   "strapi": {
     "name": "Grid Layout Builder",
@@ -11,22 +11,23 @@
     "react-grid-layout": "^1.2.5"
   },
   "author": {
-    "name": "A Strapi developer",
+    "name": "la55u",
     "email": "",
-    "url": ""
+    "url": "https://github.com/la55u"
   },
-  "maintainers": [
-    {
-      "name": "A Strapi developer",
-      "email": "",
-      "url": ""
-    }
-  ],
+  "homepage": "https://github.com/la55u/strapi-plugin-grid-layout-builder",
+  "bugs": "https://github.com/la55u/strapi-plugin-grid-layout-builder/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/la55u/strapi-plugin-grid-layout-builder.git"
+  },
   "keywords": [
     "strapi", 
     "plugin", 
     "grid", 
     "layout", 
+    "custom",
+    "field",
     "drag-and-drop"
   ],
   "engines": {
