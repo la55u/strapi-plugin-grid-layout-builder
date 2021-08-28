@@ -1,7 +1,7 @@
 {
   "name": "strapi-plugin-grid-layout-builder",
   "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "description": "A custom field to build a grid layout out of Dynamic zone components.",
   "strapi": {
     "name": "Grid Layout Builder",
     "icon": "th-large",
@@ -21,6 +21,13 @@
       "email": "",
       "url": ""
     }
+  ],
+  "keywords": [
+    "strapi", 
+    "plugin", 
+    "grid", 
+    "layout", 
+    "drag-and-drop"
   ],
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
