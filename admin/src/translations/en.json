@@ -1,0 +1,8 @@
+{
+  "form.button.edit": "Edit layout",
+  "form.button.nolayout": "No layout set, using default.",
+  "form.button.customlayout": "Custom layout is set!",
+  "form.button.delete": "Reset layout",
+  "modal.button.save": "Save layout",
+  "modal.title": "Edit Grid Layout"
+}

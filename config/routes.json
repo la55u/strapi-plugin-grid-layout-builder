@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/",
+      "handler": "grid-layout-builder.index",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
